@@ -76,7 +76,7 @@ myArray = [[1, 2, 3, 4],
 spiralMatrix(myArray, 1, 2)
 
 # In above case spiral should start from "25" anticlockwise. Printing below:
-""""Rohit Comment-># The output given is clockwise"""
+""""       # The output given is clockwise"""
 # 25,20,19,18,17,4,3,2,1,5,9,13,21,22,23,24,16,12,8,7,6,10,14,15,11 => 
 
 # direction = -1 means anticlockwise
